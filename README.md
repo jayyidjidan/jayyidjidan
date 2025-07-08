@@ -28,5 +28,6 @@ Welcome to my GitHub profile! I'm an enthusiastic **Information Technology** stu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
+<br> 
 
 ⚡ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
